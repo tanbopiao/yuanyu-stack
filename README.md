@@ -5,3 +5,7 @@
 详见 [ARCHITECTURE.md](ARCHITECTURE.md) 与 [checklist.md](checklist.md)。
 
 License: Apache-2.0
+
+## Usage
+
+本仓为文档/设计稿集合，无需安装，直接浏览文件即可。
