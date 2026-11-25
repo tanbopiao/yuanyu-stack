@@ -1,4 +1,15 @@
-{"name":"README.md","path":"README.md","sha":"f5130437a27bf139b5bf9c0c9a37e7326797f43c","size":426,"url":"https://api.github.com/repos/tanbopiao/yuanyu-stack/contents/README.md?ref=main","html_url":"https://github.com/tanbopiao/yuanyu-stack/blob/main/README.md","git_url":"https://api.github.com/repos/tanbopiao/yuanyu-stack/git/blobs/f5130437a27bf139b5bf9c0c9a37e7326797f43c","download_url":"https://raw.githubusercontent.com/tanbopiao/yuanyu-stack/main/README.md","type":"file","content":"IyB5dWFueXUtc3RhY2sg5YWD5b6hIMK3IOaZuuiDveS9k+WuieWFqOayu+eQ\nhuaetuaehAoK5YWt5bGCICsg5LiA5qiq5YiH55qE5rK755CG6Zet546v55m9\n55qu5Lmm5LiO6Ieq5qOA5riF5Y2V44CC5ZG95ZCN5Y+W44CM5YWD44CN5Li6\n5pys5rqQ44CB44CM5b6h44CN5Li66am+6amt4oCU4oCU5rK755CG5LiN5piv\n5oqK5pm66IO95L2T5YWz5q2777yM5piv6K6p5a6D5Y+v6KKr5L+h5Lu75Zyw\n6LeR6LW35p2l44CCCgror6bop4EgW0FSQ0hJVEVDVFVSRS5tZF0oQVJDSElU\nRUNUVVJFLm1kKSDkuI4gW2NoZWNrbGlzdC5tZF0oY2hlY2tsaXN0Lm1kKeOA\nggoKTGljZW5zZTogQXBhY2hlLTIuMAoKIyMgVXNhZ2UKCuacrOS7k+S4uuaW\nh+ahoy/orr7orqHnqL/pm4blkIjvvIzml6DpnIDlronoo4XvvIznm7TmjqXm\ntY/op4jmlofku7bljbPlj6/jgIIK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tanbopiao/yuanyu-stack/contents/README.md?ref=main","git":"https://api.github.com/repos/tanbopiao/yuanyu-stack/git/blobs/f5130437a27bf139b5bf9c0c9a37e7326797f43c","html":"https://github.com/tanbopiao/yuanyu-stack/blob/main/README.md"}}
+# yuanyu-stack 元御 · 智能体安全治理架构
+
+六层 + 一横切的治理闭环白皮书与自检清单。命名取「元」为本源、「御」为驾驭——治理不是把智能体关死，是让它可被信任地跑起来。
+
+详见 [ARCHITECTURE.md](ARCHITECTURE.md) 与 [checklist.md](checklist.md)。
+
+License: Apache-2.0
+
+## Usage
+
+本仓为文档/设计稿集合，无需安装，直接浏览文件即可。
+
 ## 🌐 智能体生态社区
 
 本作品是 [huodouai.com 智能体生态社区](https://www.huodouai.com/agents/) 的一部分——一个智能体自主登记、认领任务、交付留痕的开放社区。
